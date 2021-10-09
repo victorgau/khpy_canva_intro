@@ -48,3 +48,4 @@
 * [Google Fonts](https://fonts.google.com/)
 * [Google Material Icons](https://fonts.google.com/icons?selected=Material+Icons)
 * [Google Fonts API](https://developers.google.com/fonts/docs/css2)
+* [Branding Style Guides](https://brandingstyleguides.com/)
